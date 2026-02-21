@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 758.66 404.71">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-2 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-3 {
+        letter-spacing: .02em;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        letter-spacing: 0em;
+      }
+
+      .cls-9 {
+        letter-spacing: 0em;
+      }
+
+      .cls-10 {
+        letter-spacing: 0em;
+      }
+
+      .cls-11 {
+        letter-spacing: 0em;
+      }
+
+      .cls-12 {
+        font-size: 30px;
+      }
+
+      .cls-12, .cls-13 {
+        fill: #1a1a1a;
+        font-family: MyriadPro-Regular, 'Myriad Pro', Helvetica;
+      }
+
+      .cls-14 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-15 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-16 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-17 {
+        letter-spacing: 0em;
+      }
+
+      .cls-18 {
+        letter-spacing: 0em;
+      }
+
+      .cls-19 {
+        letter-spacing: 0em;
+      }
+
+      .cls-20 {
+        letter-spacing: 0em;
+      }
+
+      .cls-21 {
+        letter-spacing: 0em;
+      }
+
+      .cls-22 {
+        letter-spacing: 0em;
+      }
+
+      .cls-23 {
+        letter-spacing: 0em;
+      }
+
+      .cls-24 {
+        letter-spacing: 0em;
+      }
+
+      .cls-25 {
+        letter-spacing: 0em;
+      }
+
+      .cls-26 {
+        letter-spacing: 0em;
+      }
+
+      .cls-27 {
+        letter-spacing: 0em;
+      }
+
+      .cls-28 {
+        letter-spacing: 0em;
+      }
+
+      .cls-29 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-30 {
+        letter-spacing: 0em;
+      }
+
+      .cls-31 {
+        letter-spacing: 0em;
+      }
+
+      .cls-32 {
+        letter-spacing: 0em;
+      }
+
+      .cls-33 {
+        letter-spacing: 0em;
+      }
+
+      .cls-34 {
+        letter-spacing: 0em;
+      }
+
+      .cls-35 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-36 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-37 {
+        font-size: 16px;
+      }
+
+      .cls-38 {
+        letter-spacing: 0em;
+      }
+
+      .cls-39 {
+        letter-spacing: 0em;
+      }
+
+      .cls-40 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-41 {
+        letter-spacing: 0em;
+      }
+
+      .cls-42 {
+        font-size: 12px;
+      }
+
+      .cls-43 {
+        letter-spacing: 0em;
+      }
+
+      .cls-44 {
+        letter-spacing: 0em;
+      }
+
+      .cls-45 {
+        letter-spacing: .01em;
+      }
+
+      .cls-46 {
+        letter-spacing: 0em;
+      }
+
+      .cls-47 {
+        letter-spacing: 0em;
+      }
+
+      .cls-48 {
+        letter-spacing: 0em;
+      }
+
+      .cls-49 {
+        letter-spacing: .01em;
+      }
+
+      .cls-50 {
+        letter-spacing: .01em;
+      }
+
+      .cls-51 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-52 {
+        fill: #f58d72;
+      }
+
+      .cls-52, .cls-53, .cls-54, .cls-55, .cls-56, .cls-57, .cls-58, .cls-59, .cls-60, .cls-61, .cls-62, .cls-63 {
+        stroke-width: 0px;
+      }
+
+      .cls-53 {
+        fill: #87c1e6;
+      }
+
+      .cls-54 {
+        fill: #25803b;
+      }
+
+      .cls-55 {
+        fill: #8390c4;
+      }
+
+      .cls-56 {
+        fill: #3e55a5;
+      }
+
+      .cls-57 {
+        fill: #3f95d0;
+      }
+
+      .cls-58 {
+        fill: #afda80;
+      }
+
+      .cls-59 {
+        fill: #72ad81;
+      }
+
+      .cls-60 {
+        fill: #83c442;
+      }
+
+      .cls-61 {
+        fill: #fddf71;
+      }
+
+      .cls-62 {
+        fill: #f5582d;
+      }
+
+      .cls-63 {
+        fill: #f6c918;
+      }
+
+      .cls-64 {
+        letter-spacing: 0em;
+      }
+
+      .cls-65 {
+        letter-spacing: 0em;
+      }
+
+      .cls-66 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-67 {
+        letter-spacing: -.01em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2-2" data-name="Layer 2">
+    <polygon class="cls-35" points="233.66 10 8.66 399.71 458.66 399.71 233.66 10"/>
+    <g>
+      <polygon class="cls-55" points="4.33 402.21 44.74 332.21 422.58 332.21 462.99 402.21 4.33 402.21"/>
+      <path class="cls-56" d="m421.13,334.71l37.53,65H8.66l37.53-65h374.94m2.89-5H43.3l-1.44,2.5L4.33,397.21l-4.33,7.5h467.32l-4.33-7.5-37.53-65-1.44-2.5h0Z"/>
+    </g>
+    <g>
+      <polygon class="cls-53" points="44.3 332.21 82.28 267.21 385.04 267.21 423.02 332.21 44.3 332.21"/>
+      <path class="cls-57" d="m383.6,269.71l35.06,60H48.66l35.06-60h299.89m2.87-5H80.85l-1.45,2.48-35.06,60-4.39,7.52h387.42l-4.39-7.52-35.06-60-1.45-2.48h0Z"/>
+    </g>
+    <g>
+      <polygon class="cls-59" points="82.33 267.21 119.8 202.21 347.67 202.21 384.98 267.21 82.33 267.21"/>
+      <path class="cls-54" d="m346.22,204.71l34.44,60H86.66l34.58-60h224.98m2.9-5H118.35l-1.44,2.5-34.58,60-4.32,7.5h311.29l-4.3-7.49-34.44-60-1.44-2.51h0Z"/>
+    </g>
+    <g>
+      <polygon class="cls-58" points="119.3 202.21 157.34 137.21 309.98 137.21 348.02 202.21 119.3 202.21"/>
+      <path class="cls-60" d="m308.55,139.71l35.11,60H123.66l35.11-60h149.78m2.87-5h-155.51l-1.45,2.47-35.11,60-4.4,7.53h237.44l-4.4-7.53-35.11-60-1.45-2.47h0Z"/>
+    </g>
+    <g>
+      <polygon class="cls-61" points="157.31 137.21 195.22 72.21 272.1 72.21 310.01 137.21 157.31 137.21"/>
+      <path class="cls-63" d="m270.66,74.71l35,60h-144l35-60h74m2.87-5h-79.74l-1.45,2.48-35,60-4.39,7.52h161.41l-4.39-7.52-35-60-1.45-2.48h0Z"/>
+    </g>
+    <g>
+      <polygon class="cls-52" points="194.86 72.21 233.66 5 272.46 72.21 194.86 72.21"/>
+      <path class="cls-62" d="m233.66,10l34.47,59.71h-68.95l34.47-59.71m0-10l-4.33,7.5-34.47,59.71-4.33,7.5h86.27l-4.33-7.5L237.99,7.5l-4.33-7.5h0Z"/>
+    </g>
+    <polyline class="cls-55" points="46.19 334.71 8.66 399.71 458.66 399.71 421.13 334.71"/>
+    <polygon class="cls-53" points="383.6 269.71 83.72 269.71 46.19 334.71 421.13 334.71 383.6 269.71"/>
+    <polygon class="cls-59" points="121.24 204.71 346.22 204.71 383.6 269.71 83.72 269.71 121.24 204.71"/>
+    <polygon class="cls-58" points="158.77 139.71 308.55 139.71 346.22 204.71 121.24 204.71 158.77 139.71"/>
+    <polygon class="cls-61" points="271.02 74.71 196.3 74.71 158.77 139.71 308.55 139.71 271.02 74.71"/>
+    <polygon class="cls-52" points="233.66 10 196.3 74.71 271.02 74.71 233.66 10"/>
+    <rect class="cls-55" x="508.66" y="344.71" width="250" height="55"/>
+    <text class="cls-12" transform="translate(167.9 376.02)"><tspan class="cls-41" x="0" y="0">remember</tspan></text>
+    <text class="cls-12" transform="translate(161.27 311.02)"><tspan x="0" y="0">understand</tspan></text>
+    <text class="cls-12" transform="translate(198.76 246.01)"><tspan x="0" y="0">apply</tspan></text>
+    <text class="cls-12" transform="translate(186.44 181.02)"><tspan x="0" y="0">analyze</tspan></text>
+    <text class="cls-12" transform="translate(180.4 116.02)"><tspan x="0" y="0">evaluate</tspan></text>
+    <text class="cls-12" transform="translate(195.11 51.02)"><tspan x="0" y="0">create</tspan></text>
+    <text class="cls-13" transform="translate(518.66 364.78)"><tspan class="cls-37"><tspan class="cls-7" x="0" y="0">Recall facts and basic concepts</tspan></tspan><tspan class="cls-42"><tspan x="0" y="14.4">define, duplicate, list, memorize,</tspan></tspan><tspan class="cls-42"><tspan class="cls-39" x="0" y="28.8">repeat, state</tspan></tspan></text>
+    <rect class="cls-53" x="471.16" y="279.71" width="287.5" height="55"/>
+    <text class="cls-13" transform="translate(481.16 299.78)"><tspan class="cls-37"><tspan x="0" y="0">Explain ideas or concepts</tspan></tspan><tspan class="cls-42"><tspan x="0" y="14.4">classify, describe, discuss, explain, identify,</tspan></tspan><tspan class="cls-42"><tspan class="cls-39" x="0" y="28.8">locate, recognize, report, select, translate</tspan></tspan></text>
+    <rect class="cls-59" x="433.66" y="214.71" width="325" height="55"/>
+    <text class="cls-13" transform="translate(443.66 234.78)"><tspan class="cls-37"><tspan class="cls-19" x="0" y="0">Use information in new situations</tspan></tspan><tspan class="cls-42"><tspan class="cls-5" x="0" y="14.4">execute, implement, solve, use, demonstrate,</tspan></tspan><tspan class="cls-42"><tspan x="0" y="28.8">interpret, operate, schedule, sketch</tspan></tspan></text>
+    <rect class="cls-58" x="396.16" y="149.71" width="362.5" height="55"/>
+    <text class="cls-13" transform="translate(406.16 169.78)"><tspan class="cls-37"><tspan x="0" y="0">Draw connections among ideas</tspan></tspan><tspan class="cls-42"><tspan x="0" y="14.4">differentiate, organize, relate, compare, contrast,</tspan></tspan><tspan class="cls-42"><tspan class="cls-5" x="0" y="28.8">distinguish, examine, experiment, question, test</tspan></tspan></text>
+    <rect class="cls-61" x="358.66" y="84.71" width="400" height="55"/>
+    <text class="cls-13" transform="translate(368.66 104.78)"><tspan class="cls-37"><tspan x="0" y="0">Justify a stand or decision</tspan></tspan><tspan class="cls-42"><tspan x="0" y="14.4">appraise, argue, defend, judge, select, support, value,</tspan></tspan><tspan class="cls-42"><tspan class="cls-39" x="0" y="28.8">critique, weigh</tspan></tspan></text>
+    <rect class="cls-52" x="321.16" y="19.71" width="437.5" height="55"/>
+    <text class="cls-13" transform="translate(331.16 39.78)"><tspan class="cls-37"><tspan class="cls-29" x="0" y="0">Produce new or original work</tspan></tspan><tspan class="cls-42"><tspan x="0" y="14.4">design, assemble, construct, develop, formulate, investigate, write, present</tspan></tspan></text>
+  </g>
+</svg>
